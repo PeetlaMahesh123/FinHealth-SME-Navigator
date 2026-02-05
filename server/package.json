@@ -1,0 +1,15 @@
+{
+  "name": "finhealth-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "pg": "^8.11.3",
+    "dotenv": "^16.4.5",
+    "openai": "^4.30.0"
+  }
+}
