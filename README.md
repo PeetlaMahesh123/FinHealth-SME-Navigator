@@ -3,6 +3,12 @@
 
 A world-class financial health assessment tool for SMEs, powered by Google Gemini AI.
 
+## 📹 Watch Demo Video
+
+[![Watch the Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/19j-c_9viJQrpdN_lVpIk3Nd-LsrljbqL/view?usp=drive_link)
+
+👉 Click the image to watch the video
+
 ## 🚀 Quick Start for Deployment
 
 To make this app live on GitHub Pages, follow these three steps:
@@ -21,7 +27,7 @@ To make this app live on GitHub Pages, follow these three steps:
 ### 3. Push to Main
 - Simply push your code to the `main` branch. 
 - GitHub will automatically trigger the workflow in `.github/workflows/deploy.yml`.
-- Your site will be live at `https://<your-username>.github.io/<repo-name>/` within minutes.
+- Your site will be live at `https://PeetlaMahesh123.github.io/FinHealth-SME-Navigator/` within minutes.
 
 ## 🛠 Features
 - **AI Financial Auditor**: Deep analysis of P&L, Balance Sheets, and Cash Flow.
