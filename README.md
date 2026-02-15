@@ -8,7 +8,7 @@ A world-class financial health assessment tool for SMEs, powered by Google Gemin
 👉 [Click here to watch the demo video](https://drive.google.com/file/d/19j-c_9viJQrpdN_lVpIk3Nd-LsrljbqL/view?usp=drive_link)
 
 ---
-## Final Output
+## 🚀 Final Output
 <img width="1909" height="868" alt="image" src="https://github.com/user-attachments/assets/fb22105c-c0be-403d-868b-c3adff505f57" />
 
 ---
