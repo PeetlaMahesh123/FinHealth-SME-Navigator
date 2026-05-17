@@ -9,7 +9,7 @@ A world-class financial health assessment tool for SMEs, powered by Google Gemin
 
 ---
 ## Link for Result: 
-https://peetlamahesh123.github.io/FinHealth-SME-Navigator/
+
 
 ---
 ## 🚀 Final Output
