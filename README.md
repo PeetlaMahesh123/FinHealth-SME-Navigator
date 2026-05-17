@@ -1,7 +1,7 @@
 
 # FinHealth SME Navigator
 
-
+A world-class financial health assessment tool for SMEs, powered by Google Gemini AI.
 
 ## 📹 Demo Video
 
