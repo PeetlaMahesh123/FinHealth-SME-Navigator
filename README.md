@@ -25,7 +25,11 @@ https://peetlamahesh123.github.io/FinHealth-SME-Navigator/
 To make this app live on GitHub Pages, follow these three steps:
 
 ### 1. Setup GitHub Secrets
-
+1. Go to your GitHub Repository **Settings**.
+2. Navigate to **Secrets and variables** > **Actions**.
+3. Add a **New repository secret**:
+   - **Name**: `VITE_GEMINI_API_KEY`
+   - **Value**: `your_actual_gemini_api_key_here`
 
 ### 2. Configure Pages
 1. Go to **Settings** > **Pages**.
