@@ -31,9 +31,7 @@ To make this app live on GitHub Pages, follow these three steps:
 
 ### 1. Setup GitHub Secrets
 
-### 2. Configure Pages
-1. Go to **Settings** > **Pages**.
-2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+
 
 ### 3. Push to Main
 - Simply push your code to the `main` branch. 
