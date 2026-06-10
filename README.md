@@ -30,7 +30,9 @@ To make this app live on GitHub Pages, follow these three steps:
    - **Value**: `your_actual_gemini_api_key_here`
 
 ### 1. Setup GitHub Secrets
-
+### 2. Configure Pages
+1. Go to **Settings** > **Pages**.
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
 
 
 ### 3. Push to Main
