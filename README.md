@@ -5,7 +5,7 @@ A world-class financial health assessment tool for SMEs, powered by Google Gemin
 
 ## 📹 Demo Video
 
-👉 [Click here to watch the demo video](https://drive.google.com/file/d/19j-c_9viJQrpdN_lVpIk3Nd-LsrljbqL/view?usp=drive_link)
+
 
 ---
 ## Link for Result: 
